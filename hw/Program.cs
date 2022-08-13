@@ -1,9 +1,10 @@
-﻿int NumberCont (int C, int N)
+﻿int NumberCont (int C, int N)  
+// C - цифра в числе по счёту
+// N - вводное число
 {
-
-int C= 1;
-int N= 536;
 string str = ""+N;
 char [] ar = str.ToArray<char>();
-Console.WriteLine("" + ar[C]);
+return (int)Char.GetNumericValue(ar[C]);
 }
+
+Console.WriteLine("" + NumberCont(1,12345678));
