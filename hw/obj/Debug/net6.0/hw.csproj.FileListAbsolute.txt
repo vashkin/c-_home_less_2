@@ -1,0 +1,15 @@
+E:\vashkin.m\lesson\c#\home 2\hw\bin\Debug\net6.0\hw.exe
+E:\vashkin.m\lesson\c#\home 2\hw\bin\Debug\net6.0\hw.deps.json
+E:\vashkin.m\lesson\c#\home 2\hw\bin\Debug\net6.0\hw.runtimeconfig.json
+E:\vashkin.m\lesson\c#\home 2\hw\bin\Debug\net6.0\hw.dll
+E:\vashkin.m\lesson\c#\home 2\hw\bin\Debug\net6.0\hw.pdb
+E:\vashkin.m\lesson\c#\home 2\hw\obj\Debug\net6.0\hw.csproj.AssemblyReference.cache
+E:\vashkin.m\lesson\c#\home 2\hw\obj\Debug\net6.0\hw.GeneratedMSBuildEditorConfig.editorconfig
+E:\vashkin.m\lesson\c#\home 2\hw\obj\Debug\net6.0\hw.AssemblyInfoInputs.cache
+E:\vashkin.m\lesson\c#\home 2\hw\obj\Debug\net6.0\hw.AssemblyInfo.cs
+E:\vashkin.m\lesson\c#\home 2\hw\obj\Debug\net6.0\hw.csproj.CoreCompileInputs.cache
+E:\vashkin.m\lesson\c#\home 2\hw\obj\Debug\net6.0\hw.dll
+E:\vashkin.m\lesson\c#\home 2\hw\obj\Debug\net6.0\refint\hw.dll
+E:\vashkin.m\lesson\c#\home 2\hw\obj\Debug\net6.0\hw.pdb
+E:\vashkin.m\lesson\c#\home 2\hw\obj\Debug\net6.0\hw.genruntimeconfig.cache
+E:\vashkin.m\lesson\c#\home 2\hw\obj\Debug\net6.0\ref\hw.dll
