@@ -1,0 +1,15 @@
+E:\vashkin.m\lesson\c#\home 2\hw2\obj\Debug\net6.0\hw2.csproj.AssemblyReference.cache
+E:\vashkin.m\lesson\c#\home 2\hw2\obj\Debug\net6.0\hw2.GeneratedMSBuildEditorConfig.editorconfig
+E:\vashkin.m\lesson\c#\home 2\hw2\obj\Debug\net6.0\hw2.AssemblyInfoInputs.cache
+E:\vashkin.m\lesson\c#\home 2\hw2\obj\Debug\net6.0\hw2.AssemblyInfo.cs
+E:\vashkin.m\lesson\c#\home 2\hw2\obj\Debug\net6.0\hw2.csproj.CoreCompileInputs.cache
+E:\vashkin.m\lesson\c#\home 2\hw2\bin\Debug\net6.0\hw2.exe
+E:\vashkin.m\lesson\c#\home 2\hw2\bin\Debug\net6.0\hw2.deps.json
+E:\vashkin.m\lesson\c#\home 2\hw2\bin\Debug\net6.0\hw2.runtimeconfig.json
+E:\vashkin.m\lesson\c#\home 2\hw2\bin\Debug\net6.0\hw2.dll
+E:\vashkin.m\lesson\c#\home 2\hw2\bin\Debug\net6.0\hw2.pdb
+E:\vashkin.m\lesson\c#\home 2\hw2\obj\Debug\net6.0\hw2.dll
+E:\vashkin.m\lesson\c#\home 2\hw2\obj\Debug\net6.0\refint\hw2.dll
+E:\vashkin.m\lesson\c#\home 2\hw2\obj\Debug\net6.0\hw2.pdb
+E:\vashkin.m\lesson\c#\home 2\hw2\obj\Debug\net6.0\hw2.genruntimeconfig.cache
+E:\vashkin.m\lesson\c#\home 2\hw2\obj\Debug\net6.0\ref\hw2.dll
