@@ -8,10 +8,12 @@
         mas= mas*10;
         i++;
     }while(i<=C-1);
-     if (mas>=N){
-                 Console.WriteLine( i + " цифры нет");
-            return 0;
-    }else{
+    if (mas>=N){
+                 
+            return 555;
+    }
+    else
+    {
                 string str = ""+N;
                 char [] ar = str.ToArray<char>();
                 return (int)Char.GetNumericValue(ar[C-1]);
@@ -19,4 +21,53 @@
 }
 
 
-Console.WriteLine("" + NumberCont(9,12345678));
+
+
+
+
+//первое условие
+
+Console.WriteLine("Первое задание: ");
+int Number= NumberCont(2,456);
+if (Number>=11){
+Console.WriteLine("Данной цифры нет");
+}else{
+Console.WriteLine("" + Number);
+}
+
+ Number= NumberCont(2,782);
+if (Number>=11){
+Console.WriteLine("Данной цифры нет");
+}else{
+Console.WriteLine("" + Number);
+}
+
+ Number= NumberCont(2,918);
+if (Number>=11){
+Console.WriteLine("Данной цифры нет");
+}else{
+Console.WriteLine("" + Number);
+}
+ // второе условие
+ 
+Console.WriteLine("Второе задание: ");
+ Number= NumberCont(3,645);
+if (Number>=11){
+Console.WriteLine("Данной цифры нет");
+}else{
+Console.WriteLine("" + Number);
+}
+
+Number= NumberCont(3,78);
+if (Number>=11){
+Console.WriteLine("Данной цифры нет");
+}else{
+Console.WriteLine("" + Number);
+}
+
+Number= NumberCont(3,32679);
+if (Number>=11){
+Console.WriteLine("Данной цифры нет");
+}else{
+Console.WriteLine("" + Number);
+}
